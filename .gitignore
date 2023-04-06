@@ -12,5 +12,8 @@ Cargo.lock
 /flamegraph/graphs
 /flamegraph/stacks
 
+# vscode configuration
+/.vscode
+
 # MacOS attribute files.
 .DS_Store
